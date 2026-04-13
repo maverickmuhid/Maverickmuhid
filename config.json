@@ -11,14 +11,14 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "Maverick Muhid",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "61586663640809",
-    "100044713412032"
+    "61578590631602",
+    "100088773920232",
+    "100085100980859"
   ],
   "NDH": ["100044713412032"],
   "adminOnly": false,
